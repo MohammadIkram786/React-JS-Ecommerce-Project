@@ -1,0 +1,12 @@
+Get all products
+'https://dummyjson.com/products'
+
+Get all products categories
+'https://dummyjson.com/products/categories'              (use with v.name)
+
+Get products category list
+'https://dummyjson.com/products/category-list'
+
+Get products category list
+'https://dummyjson.com/products/category/smartphones'
+
